@@ -9,7 +9,7 @@ Image below shows simple log events from a test web server:
 ![GoSlackLog example](https://github.com/Vizualni/goslacklog/raw/master/example.png?sanitize=true)
 
 
-## Example
+## Usage
 
 ```go
 var slackLogger = goslacklog.NewBufferedSlackLogger(
